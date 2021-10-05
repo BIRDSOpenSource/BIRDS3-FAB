@@ -1,0 +1,139 @@
+[PROJECT]
+Target=fab_281218.hex
+Processor_Text=PIC16F1789
+CCSVersion=5.076
+Compiler=PCM
+[Target Data]
+FileList=fab_281218.c
+[fab_281218.c]
+Type=4
+[mru-list]
+1=fab_281218.c
+
+[defines]
+buildcount=80
+
+[ProjectLog]
+Days=13
+D1=28-12-2018
+D1_L=18
+D1_L1=[65986]Started Editing.
+D1_L2=[66491]Stopped Editing.
+D1_L3=[67387]Started Editing.
+D1_L4=[67687]Stopped Editing.
+D1_L5=[76796]Started Editing.
+D1_L6=[77104]Stopped Editing.
+D1_L7=[77170]Started Editing.
+D1_L8=[77761]Stopped Editing.
+D1_L9=[78015]Started Editing.
+D1_L10=[78840]Stopped Editing.
+D1_L11=[79343]Started Editing.
+D1_L12=[79681]Stopped Editing.
+D1_L13=[80729]Started Editing.
+D1_L14=[81086]Stopped Editing.
+D1_L15=[82594]Started Editing.
+D1_L16=[83940]Stopped Editing.
+D1_L17=[85584]Started Editing.
+D1_L18=[85764]Project Closed.
+D2=03-01-2019
+D2_L=4
+D2_L1=[60363]Project Opened.
+D2_L2=[60655]Started Editing.
+D2_L3=[60979]Stopped Editing.
+TotalEdit=103
+TotalDebug=0
+D2_E=6
+D2_D=0
+D2_L4=[60979]Project Closed.
+D3=15-01-2019
+D3_L=1
+D3_L1=[41909]Project Opened.
+D4=17-01-2019
+D4_L=1
+D4_L1=[66955]Project Closed.
+D5=18-01-2019
+D5_L=4
+D5_L1=[42386]Project Opened.
+D5_L2=[44831]Started Editing.
+D5_L3=[45131]Stopped Editing.
+D5_E=1
+D5_D=0
+D5_L4=[60539]Project Closed.
+D6=16-02-2019
+D6_L=2
+D6_L1=[30226]Project Opened.
+D6_L2=[31076]Project Closed.
+D7=25-06-2019
+D7_L=2
+D7_L1=[30900]Project Opened.
+D7_L2=[68361]Project Closed.
+D8=26-06-2019
+D8_L=8
+D8_L1=[56796]Project Opened.
+D8_L2=[56829]Started Editing.
+D8_L3=[57134]Stopped Editing.
+D8_E=1
+D8_D=0
+D8_L4=[65084]Project Closed.
+D8_L5=[65749]Project Opened.
+D8_L6=[65750]Project Closed.
+D8_L7=[65751]Project Opened.
+D8_L8=[65907]Project Closed.
+D9=27-06-2019
+D9_L=16
+D9_L1=[38756]Project Opened.
+D9_L2=[39632]Started Editing.
+D9_L3=[39936]Stopped Editing.
+D9_E=94
+D9_D=0
+D9_L4=[40670]Project Closed.
+D9_L5=[40687]Project Opened.
+D9_L6=[40847]Started Editing.
+D9_L7=[41705]Stopped Editing.
+D9_L8=[42145]Started Editing.
+D9_L9=[44955]Stopped Editing.
+D9_L10=[44997]Started Editing.
+D9_L11=[46709]Stopped Editing.
+D9_L12=[48047]Started Editing.
+D9_L13=[48434]Stopped Editing.
+D9_L14=[48593]Started Editing.
+D9_L15=[49846]Stopped Editing.
+D9_L16=[75828]Project Closed.
+D10=05-07-2019
+D10_L=4
+D10_L1=[35191]Project Opened.
+D10_L2=[35236]Started Editing.
+D10_L3=[35296]Stopped Editing.
+D10_E=1
+D10_D=0
+D10_L4=[35296]Project Closed.
+D11=08-07-2020
+D11_L=2
+D11_L1=[78244]Project Opened.
+D11_L2=[78372]Project Closed.
+D12=04-08-2020
+D12_L=1
+D12_L1=[42939]Project Opened.
+D13=10-06-2021
+D13_L=2
+D13_L1=[67146]Project Opened.
+D13_L2=[67728]Project Closed.
+
+[Opened Files]
+1=fab_281218.c
+t1=1
+2=ADC_reading_func.c
+t2=1
+Count=2
+3=define_func.c
+t3=1
+4=..\..\RESET_PIC_V3 (FOR FM)\RESET_CURRENT.c
+t4=1
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices+\;C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\;C:\Program Files (x86)\PICC\Devices++\
+
+[fileformats]
+forcecoff=0
+[Units]
+Count=1
+1=fab_281218 (main)
